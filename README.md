@@ -1,4 +1,4 @@
-# Keeping-Green
+# Keeping_Green
 
 Located trash and recycle bins around Medgar Evers Campus
 
